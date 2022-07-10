@@ -23,6 +23,7 @@
         <module>flyweight</module>
         <module>chain-of-responsibility</module>
         <module>Command</module>
+        <module>iterator</module>
     </modules>
 
     <properties>
